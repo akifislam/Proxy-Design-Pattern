@@ -19,9 +19,9 @@ iamakifislam@gmail.com<br><br><br>
 </p>
 
 ## Flowchart 
-
-<img src='./ProxyDiagramFlowchart.drawio.png'>
-
+<center>
+<img height=400 width = 250 src='./ProxyDiagramFlowchart.drawio.png'>
+</center>
 
 ## How to Run?
 ```bash
@@ -56,6 +56,7 @@ districtwarehouse.deliverProduct("Macbook Air");
 ```
 
 ## Output
-
+<center>
 <img height="400" width="600" src='ProxyPatternOutput.png'>
 
+</center>
