@@ -20,7 +20,7 @@ iamakifislam@gmail.com<br><br><br>
 
 ## Flowchart 
 <center>
-<img height=400 width = 250 src='./ProxyDiagramFlowchart.drawio.png'>
+<img height=700 width = 500 src='./ProxyDiagramFlowchart.drawio.png'>
 </center>
 
 ## How to Run?
